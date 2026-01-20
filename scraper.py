@@ -196,8 +196,12 @@ URL = build_url(dt, end_year)
 
 
 # ---- Write records to JSON file ----
+import os
 import json
+
+# Make sure the data folder exists
+os.makedirs("data", exist_ok=True)
 
 with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
     json.dump(records, f, indent=2)
-
+    
