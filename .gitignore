@@ -1,9 +1,10 @@
 # -------------------------
 # Python cache / build files
 # -------------------------
+# Ignore Python / venv
+venv/
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 
 # Virtual environments
 venv/
@@ -45,4 +46,6 @@ eggs/
 *.env
 
 # Project-specific
-data/*.json
+# Ignore all data files except schedule-cache.json
+data/*
+!data/schedule-cache.json
