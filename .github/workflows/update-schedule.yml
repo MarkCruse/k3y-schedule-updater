@@ -2,7 +2,7 @@ name: Update K3Y Schedule
 
 on:
   schedule:
-    - cron:  '0,15,30,45 * * * *'  # run at every quarter-hour
+    - cron:  '0,13,28,43 * * * *'  # run at every quarter-hour
   workflow_dispatch:                # allows manual trigger
 
 jobs:
@@ -35,3 +35,11 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions"
+        git add data/schedule-cache.json
+        # Only commit if there are changes
+        if ! git diff --cached --quiet; then
+          git commit -m "Update schedule-cache.json [skip ci]"
+          git push
+        else
+          echo "No changes to commit"
+        fi
