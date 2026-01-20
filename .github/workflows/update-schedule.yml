@@ -14,7 +14,7 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}  # ensures push works
 
     # -----------------------------
     - name: Set up Python
@@ -33,6 +33,7 @@ jobs:
       run: |
         set -e  # fail immediately if scraper fails
         python scraper.py
+        echo "Scraper finished."
         echo "Contents of data folder:"
         ls -la data || echo "data folder does not exist!"
 
@@ -44,6 +45,7 @@ jobs:
         git add -f data/schedule-cache.json
         if ! git diff --cached --quiet; then
           git commit -m "Update schedule-cache.json [skip ci]"
-          git push
+          # Use token explicitly in push to avoid 403
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         else
           echo "No changes to commit"
