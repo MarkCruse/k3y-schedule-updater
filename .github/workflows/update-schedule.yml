@@ -25,7 +25,11 @@ jobs:
 
     - name: Run scraper
       run: |
+        set -e
         python scraper.py
+        echo "Contents of data folder:"
+        ls -la data || echo "data folder does not exist!"
+
 
     - name: Commit updated JSON
       run: |
