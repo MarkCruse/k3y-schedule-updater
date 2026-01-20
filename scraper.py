@@ -198,6 +198,6 @@ URL = build_url(dt, end_year)
 # ---- Write records to JSON file ----
 import json
 
-with open("schedule-cache.json", "w", encoding="utf-8") as f:
+with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
     json.dump(records, f, indent=2)
 
