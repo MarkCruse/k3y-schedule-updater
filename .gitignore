@@ -47,5 +47,5 @@ eggs/
 
 # Project-specific
 # Ignore all data files except schedule-cache.json
-#data/*
-#!data/schedule-cache.json
+data/*
+!data/schedule-cache.json
