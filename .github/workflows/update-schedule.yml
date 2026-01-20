@@ -32,6 +32,8 @@ jobs:
     - name: Run scraper
       run: |
         set -e  # fail immediately if scraper fails
+        # Ensure data folder exists
+        mkdir -p data
         python scraper.py
         echo "Scraper finished."
         echo "Contents of data folder:"
@@ -45,7 +47,7 @@ jobs:
         git add -f data/schedule-cache.json
         if ! git diff --cached --quiet; then
           git commit -m "Update schedule-cache.json [skip ci]"
-          # Use token explicitly in push to avoid 403
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         else
           echo "No changes to commit"
+        fi
