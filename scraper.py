@@ -199,9 +199,11 @@ URL = build_url(dt, end_year)
 import os
 import json
 
-# Make sure the data folder exists
 os.makedirs("data", exist_ok=True)
 
-with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
-    json.dump(records, f, indent=2)
-    
+if records:
+    with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2)
+    print(f"Wrote {len(records)} records to schedule-cache.json")
+else:
+    print("No records to write — scraper may have failed or found no data")
