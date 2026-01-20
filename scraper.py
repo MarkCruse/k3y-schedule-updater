@@ -34,6 +34,11 @@ def build_url(dt, end_year):
 
 # ---- Main logic ----
 current = start_dt
+
+# DEBUG: Show starting info
+print("Scraper starting...")
+print(f"Today: {start_dt}, End date: {end_date}")
+ 
 # ---- Loop through each day ----
 while current <= end_date:
     URL = build_url(current, end_year)
@@ -190,10 +195,11 @@ from pprint import pprint
 #pprint(records[0])
 #pprint(records)
 
-dt += timedelta(days=1)
-URL = build_url(dt, end_year)
-#print(URL)
-
+print(f"Number of records found: {len(records)}")
+if records:
+    print("Sample record:", records[0])
+else:
+    print("No records found. Check if page was fetched correctly.")
 
 # ---- Write records to JSON file ----
 import os
