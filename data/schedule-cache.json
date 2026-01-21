@@ -3161,6 +3161,16 @@
   },
   {
     "utc_start": "16:00",
+    "utc_end": "16:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/24/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
+  },
+  {
+    "utc_start": "16:00",
     "utc_end": "20:00",
     "k3y_area": "K3Y/6",
     "session_date": "01/24/26",
@@ -3808,6 +3818,16 @@
     "name": "Randy",
     "state": "AZ",
     "skcc_nr": "28701"
+  },
+  {
+    "utc_start": "18:00",
+    "utc_end": "18:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/25/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
   },
   {
     "utc_start": "18:00",
