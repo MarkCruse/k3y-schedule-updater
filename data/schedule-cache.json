@@ -2800,6 +2800,16 @@
     "skcc_nr": "20151S"
   },
   {
+    "utc_start": "23:00",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/23/26",
+    "callsign": "KE7VE",
+    "name": "Tin",
+    "state": "WY",
+    "skcc_nr": "4274S"
+  },
+  {
     "utc_start": "0:00",
     "utc_end": "1:00",
     "k3y_area": "K3Y/0",
