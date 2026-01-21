@@ -2480,6 +2480,16 @@
     "skcc_nr": "20151S"
   },
   {
+    "utc_start": "19:00",
+    "utc_end": "19:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/23/26",
+    "callsign": "KD5ZZU",
+    "name": "Mallory",
+    "state": "TX",
+    "skcc_nr": "28788T"
+  },
+  {
     "utc_start": "20:00",
     "utc_end": "21:00",
     "k3y_area": "K3Y/7",
