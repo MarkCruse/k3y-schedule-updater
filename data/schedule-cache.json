@@ -360,6 +360,16 @@
     "skcc_nr": "26931S"
   },
   {
+    "utc_start": "4:00",
+    "utc_end": "5:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/21/26",
+    "callsign": "N7PHI",
+    "name": "Derek",
+    "state": "UT",
+    "skcc_nr": "20999S"
+  },
+  {
     "utc_start": "5:00",
     "utc_end": "8:00",
     "k3y_area": "EU-ESP",
@@ -368,6 +378,16 @@
     "name": "Juan",
     "state": "Spain",
     "skcc_nr": "24446S"
+  },
+  {
+    "utc_start": "5:00",
+    "utc_end": "6:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/21/26",
+    "callsign": "N7PHI",
+    "name": "Derek",
+    "state": "UT",
+    "skcc_nr": "20999S"
   },
   {
     "utc_start": "7:00",
@@ -3268,16 +3288,6 @@
     "name": "Ron",
     "state": "NY",
     "skcc_nr": "29787C"
-  },
-  {
-    "utc_start": "0:00",
-    "utc_end": "1:00",
-    "k3y_area": "K3Y/2",
-    "session_date": "01/25/26",
-    "callsign": "K2FW",
-    "name": "Steve",
-    "state": "NJ",
-    "skcc_nr": "20151S"
   },
   {
     "utc_start": "0:01",
