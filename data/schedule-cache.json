@@ -1070,6 +1070,16 @@
     "skcc_nr": "20151S"
   },
   {
+    "utc_start": "0:00",
+    "utc_end": "1:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/22/26",
+    "callsign": "KJ7GNB",
+    "name": "Bill",
+    "state": "MT",
+    "skcc_nr": "20930S"
+  },
+  {
     "utc_start": "0:01",
     "utc_end": "23:59",
     "k3y_area": "OC-AUS",
