@@ -7298,5 +7298,15 @@
     "name": "Adrian",
     "state": "CA",
     "skcc_nr": "12497T"
+  },
+  {
+    "utc_start": "23:00",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/31/26",
+    "callsign": "AD5VC",
+    "name": "Dana",
+    "state": "LA",
+    "skcc_nr": "1555S"
   }
 ]
