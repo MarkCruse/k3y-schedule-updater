@@ -2,11 +2,11 @@ name: Update SKCC Schedule Cache
 
 on:
   schedule:
-    # Only run:
-    # - in January
-    # - at 13, 28, 43, 58 minutes past the hour
-    # - AND only at 12:00–03:59 UTC (7am–10pm EST)
-    - cron: '13,28,43,58 12-23,0-3 1 * *'
+    # Covers 7:13 AM EST to 6:58 PM EST (12:13 to 23:58 UTC)
+    - cron: '13,28,43,58 12-23 * 1 *
+
+    # Covers 7:13 PM EST to 10:58 PM EST (00:13 to 03:58 UTC)
+    - cron: '13,28,43,58 0-3 * 1 *'
   workflow_dispatch:
 
 jobs:
