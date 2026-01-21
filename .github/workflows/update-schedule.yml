@@ -1,53 +1,80 @@
-name: Update K3Y Schedule
+name: Update SKCC Schedule Cache
 
 on:
   schedule:
-    - cron: '13,28,43,58 * * * *'  # run at 13, 28, 43, 58 minutes past each hour
-  workflow_dispatch:                # allows manual trigger
+    # Only run:
+    # - in January
+    # - at 13, 28, 43, 58 minutes past the hour
+    # - AND only at 12:00–03:59 UTC (7am–10pm EST)
+    - cron: '13,28,43,58 12-23,0-3 1 * *'
+  workflow_dispatch:
 
 jobs:
   update-schedule:
     runs-on: ubuntu-latest
 
     steps:
-    # -----------------------------
-    - name: Checkout repo
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # ensures push works
 
-    # -----------------------------
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      # --------------------------
+      # 1) Diagnostics (light)
+      # --------------------------
+      - name: Log workflow trigger
+        run: |
+          echo "=== Workflow triggered at (UTC) ==="
+          date -u
+          echo "Event: ${{ github.event_name }}"
+          echo "=== Repository status ==="
+          ls -R
 
-    # -----------------------------
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      # --------------------------
+      # 2) Checkout repo
+      # --------------------------
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-    # -----------------------------
-    - name: Run scraper
-      run: |
-        set -e  # fail immediately if scraper fails
-        # Ensure data folder exists
-        mkdir -p data
-        python scraper.py
-        echo "Scraper finished."
-        echo "Contents of data folder:"
-        ls -la data || echo "data folder does not exist!"
+      # --------------------------
+      # 3) Setup Python
+      # --------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    # -----------------------------
-    - name: Commit updated JSON
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "GitHub Actions"
-        git add -f data/schedule-cache.json
-        if ! git diff --cached --quiet; then
-          git commit -m "Update schedule-cache.json [skip ci]"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-        else
-          echo "No changes to commit"
-        fi
+      # --------------------------
+      # 4) Install dependencies
+      # --------------------------
+      - name: Install requirements
+        run: pip install beautifulsoup4 requests
+
+      # --------------------------
+      # 5) Run scraper
+      # --------------------------
+      - name: Run scraper script
+        run: |
+          echo "=== Running scraper.py ==="
+          python scraper.py
+          echo "=== After scraper.py ==="
+          ls -R data || echo "data folder missing"
+
+      # --------------------------
+      # 6) Commit & push results
+      # --------------------------
+      - name: Commit and push changes
+        run: |
+          echo "=== Preparing git commit ==="
+
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+
+          git add -f data/schedule-cache.json || true
+
+          if ! git diff --cached --quiet; then
+            echo "Changes detected – committing..."
+            git commit -m "Update schedule-cache.json [skip ci]"
+            echo "Pushing..."
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No changes to commit."
+          fi
