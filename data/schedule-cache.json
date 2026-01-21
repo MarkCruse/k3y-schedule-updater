@@ -780,6 +780,16 @@
     "skcc_nr": "24109S"
   },
   {
+    "utc_start": "19:00",
+    "utc_end": "20:00",
+    "k3y_area": "k3y/0",
+    "session_date": "01/21/26",
+    "callsign": "K8UDH",
+    "name": "Bruce",
+    "state": "NE",
+    "skcc_nr": "10532S"
+  },
+  {
     "utc_start": "20:00",
     "utc_end": "21:00",
     "k3y_area": "K3Y/4",
