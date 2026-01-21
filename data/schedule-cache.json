@@ -480,6 +480,16 @@
     "skcc_nr": "2370S"
   },
   {
+    "utc_start": "12:00",
+    "utc_end": "14:00",
+    "k3y_area": "K3Y/4",
+    "session_date": "01/21/26",
+    "callsign": "W1DV",
+    "name": "Dave",
+    "state": "NC",
+    "skcc_nr": "1433S"
+  },
+  {
     "utc_start": "13:00",
     "utc_end": "21:00",
     "k3y_area": "EU-FRA",
@@ -498,16 +508,6 @@
     "name": "Amy",
     "state": "NV",
     "skcc_nr": "23812"
-  },
-  {
-    "utc_start": "13:00",
-    "utc_end": "14:00",
-    "k3y_area": "K3Y/4",
-    "session_date": "01/21/26",
-    "callsign": "W1DV",
-    "name": "Dave",
-    "state": "NC",
-    "skcc_nr": "1433S"
   },
   {
     "utc_start": "13:00",
