@@ -19,12 +19,18 @@ jobs:
       # 1) Diagnostics (light)
       # --------------------------
       - name: Log workflow trigger
+        shell: bash
         run: |
+          set +e
           echo "=== Workflow triggered at (UTC) ==="
           date -u
           echo "Event: ${{ github.event_name }}"
-          echo "=== Repository status ==="
-          ls -R
+          echo "=== Working directory before checkout ==="
+          pwd
+          echo "Contents:"
+          ls -R .
+          echo "=========================================="
+
 
       # --------------------------
       # 2) Checkout repo
