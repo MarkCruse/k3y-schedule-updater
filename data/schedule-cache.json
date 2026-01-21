@@ -390,6 +390,16 @@
     "skcc_nr": "20999S"
   },
   {
+    "utc_start": "6:00",
+    "utc_end": "7:00",
+    "k3y_area": "K3Y/4",
+    "session_date": "01/21/26",
+    "callsign": "W4CMG",
+    "name": "Cathy",
+    "state": "TN",
+    "skcc_nr": "20093S"
+  },
+  {
     "utc_start": "7:00",
     "utc_end": "9:00",
     "k3y_area": "EU-FRA",
@@ -2581,6 +2591,16 @@
   },
   {
     "utc_start": "0:00",
+    "utc_end": "0:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/24/26",
+    "callsign": "K0RO",
+    "name": "Ralph",
+    "state": "MS",
+    "skcc_nr": "14800S"
+  },
+  {
+    "utc_start": "0:00",
     "utc_end": "1:00",
     "k3y_area": "K3Y/6",
     "session_date": "01/24/26",
@@ -3251,6 +3271,16 @@
   },
   {
     "utc_start": "22:00",
+    "utc_end": "22:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/24/26",
+    "callsign": "K0RO",
+    "name": "Ralph",
+    "state": "MS",
+    "skcc_nr": "14800S"
+  },
+  {
+    "utc_start": "22:00",
     "utc_end": "23:00",
     "k3y_area": "K3Y/7",
     "session_date": "01/24/26",
@@ -3268,6 +3298,16 @@
     "name": "Steve",
     "state": "NJ",
     "skcc_nr": "20151S"
+  },
+  {
+    "utc_start": "0:00",
+    "utc_end": "0:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/25/26",
+    "callsign": "K0RO",
+    "name": "Ralph",
+    "state": "MS",
+    "skcc_nr": "14800S"
   },
   {
     "utc_start": "0:00",
@@ -3810,6 +3850,16 @@
     "skcc_nr": "22368S"
   },
   {
+    "utc_start": "22:00",
+    "utc_end": "22:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/25/26",
+    "callsign": "K0RO",
+    "name": "Ralph",
+    "state": "MS",
+    "skcc_nr": "14800S"
+  },
+  {
     "utc_start": "23:00",
     "utc_end": "23:59",
     "k3y_area": "K3Y/6",
@@ -3838,6 +3888,16 @@
     "name": "Adrian",
     "state": "CA",
     "skcc_nr": "12497T"
+  },
+  {
+    "utc_start": "0:00",
+    "utc_end": "0:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/26/26",
+    "callsign": "K0RO",
+    "name": "Ralph",
+    "state": "MS",
+    "skcc_nr": "14800S"
   },
   {
     "utc_start": "0:01",
