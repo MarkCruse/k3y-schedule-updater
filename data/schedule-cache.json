@@ -3460,6 +3460,16 @@
     "skcc_nr": "20151S"
   },
   {
+    "utc_start": "19:00",
+    "utc_end": "21:00",
+    "k3y_area": "K3Y/4",
+    "session_date": "01/24/26",
+    "callsign": "AB4PP",
+    "name": "John Paul",
+    "state": "NC",
+    "skcc_nr": "32S"
+  },
+  {
     "utc_start": "20:00",
     "utc_end": "23:59",
     "k3y_area": "K3Y/6",
@@ -4028,6 +4038,16 @@
     "name": "Randy",
     "state": "AZ",
     "skcc_nr": "28701"
+  },
+  {
+    "utc_start": "17:00",
+    "utc_end": "18:00",
+    "k3y_area": "K3Y/4",
+    "session_date": "01/25/26",
+    "callsign": "AB4PP",
+    "name": "John Paul",
+    "state": "NC",
+    "skcc_nr": "32S"
   },
   {
     "utc_start": "18:00",
