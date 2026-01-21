@@ -3,7 +3,7 @@ name: Update SKCC Schedule Cache
 on:
   schedule:
     # Covers 7:13 AM EST to 6:58 PM EST (12:13 to 23:58 UTC)
-    - cron: '13,28,43,58 12-23 * 1 *
+    - cron: '13,28,43,58 12-23 * 1 *'
 
     # Covers 7:13 PM EST to 10:58 PM EST (00:13 to 03:58 UTC)
     - cron: '13,28,43,58 0-3 * 1 *'
