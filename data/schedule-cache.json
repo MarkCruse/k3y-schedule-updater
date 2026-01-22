@@ -7198,5 +7198,15 @@
     "name": "Dana",
     "state": "LA",
     "skcc_nr": "1555S"
+  },
+  {
+    "utc_start": "23:00",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/1",
+    "session_date": "01/31/26",
+    "callsign": "W1ZAH",
+    "name": "Frank",
+    "state": "CT",
+    "skcc_nr": "20478S"
   }
 ]
