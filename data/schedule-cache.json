@@ -4370,16 +4370,6 @@
     "skcc_nr": "28605"
   },
   {
-    "utc_start": "1:30",
-    "utc_end": "15:00",
-    "k3y_area": "K3Y/3",
-    "session_date": "01/27/26",
-    "callsign": "K3WK",
-    "name": "Gary",
-    "state": "MD",
-    "skcc_nr": "25013S"
-  },
-  {
     "utc_start": "2:00",
     "utc_end": "3:00",
     "k3y_area": "K3Y/7",
@@ -4548,6 +4538,16 @@
     "name": "Paul",
     "state": "GA",
     "skcc_nr": "6518S"
+  },
+  {
+    "utc_start": "13:00",
+    "utc_end": "15:00",
+    "k3y_area": "K3Y/3",
+    "session_date": "01/27/26",
+    "callsign": "K3WK",
+    "name": "Gary",
+    "state": "MD",
+    "skcc_nr": "25013S"
   },
   {
     "utc_start": "13:00",
