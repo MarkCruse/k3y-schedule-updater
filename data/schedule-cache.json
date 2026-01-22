@@ -4510,6 +4510,16 @@
     "skcc_nr": "6518S"
   },
   {
+    "utc_start": "13:00",
+    "utc_end": "15:00",
+    "k3y_area": "K3Y/3",
+    "session_date": "01/27/26",
+    "callsign": "K3WK",
+    "name": "Gary",
+    "state": "MD",
+    "skcc_nr": "25013S"
+  },
+  {
     "utc_start": "14:00",
     "utc_end": "17:00",
     "k3y_area": "EU-GER",
