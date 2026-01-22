@@ -580,6 +580,16 @@
     "skcc_nr": "25013S"
   },
   {
+    "utc_start": "14:00",
+    "utc_end": "15:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/22/26",
+    "callsign": "W7HLO",
+    "name": "Dale",
+    "state": "WA",
+    "skcc_nr": "27178T"
+  },
+  {
     "utc_start": "15:00",
     "utc_end": "17:00",
     "k3y_area": "K3Y/1",
@@ -1900,6 +1910,16 @@
     "skcc_nr": "20151S"
   },
   {
+    "utc_start": "0:00",
+    "utc_end": "1:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/24/26",
+    "callsign": "W7VC",
+    "name": "Jordan",
+    "state": "OR",
+    "skcc_nr": "24194S"
+  },
+  {
     "utc_start": "0:01",
     "utc_end": "23:59",
     "k3y_area": "OC-AUS",
@@ -2118,6 +2138,16 @@
     "name": "Tim",
     "state": "MS",
     "skcc_nr": "28998S"
+  },
+  {
+    "utc_start": "1:00",
+    "utc_end": "2:00",
+    "k3y_area": "K3Y/7",
+    "session_date": "01/24/26",
+    "callsign": "W7VC",
+    "name": "Jordan",
+    "state": "OR",
+    "skcc_nr": "24194S"
   },
   {
     "utc_start": "2:00",
@@ -2608,6 +2638,16 @@
     "name": "Anne",
     "state": "WY",
     "skcc_nr": "24702C"
+  },
+  {
+    "utc_start": "22:00",
+    "utc_end": "23:00",
+    "k3y_area": "K3Y/2",
+    "session_date": "01/24/26",
+    "callsign": "KD2GUT",
+    "name": "Caryn",
+    "state": "NY",
+    "skcc_nr": "23124S"
   },
   {
     "utc_start": "23:00",
@@ -5550,6 +5590,16 @@
     "skcc_nr": "15132S"
   },
   {
+    "utc_start": "19:00",
+    "utc_end": "21:00",
+    "k3y_area": "K3Y/1",
+    "session_date": "01/29/26",
+    "callsign": "KK4DX",
+    "name": "Lance",
+    "state": "CT",
+    "skcc_nr": "30581"
+  },
+  {
     "utc_start": "20:00",
     "utc_end": "21:00",
     "k3y_area": "K3Y/7",
@@ -5988,6 +6038,16 @@
     "name": "Mark",
     "state": "KY",
     "skcc_nr": "25318S"
+  },
+  {
+    "utc_start": "14:00",
+    "utc_end": "15:00",
+    "k3y_area": "K3Y/1",
+    "session_date": "01/30/26",
+    "callsign": "KK4DX",
+    "name": "Lance",
+    "state": "CT",
+    "skcc_nr": "30581"
   },
   {
     "utc_start": "15:00",
