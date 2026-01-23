@@ -620,6 +620,26 @@
     "skcc_nr": "710S"
   },
   {
+    "utc_start": "15:00",
+    "utc_end": "16:00",
+    "k3y_area": "k3y/0",
+    "session_date": "01/23/26",
+    "callsign": "K0AF",
+    "name": "Andy",
+    "state": "IA",
+    "skcc_nr": "22366S"
+  },
+  {
+    "utc_start": "15:00",
+    "utc_end": "16:30",
+    "k3y_area": "K3Y/KP4",
+    "session_date": "01/23/26",
+    "callsign": "KP4RD",
+    "name": "FELIX",
+    "state": "PR",
+    "skcc_nr": "10157S"
+  },
+  {
     "utc_start": "16:00",
     "utc_end": "19:00",
     "k3y_area": "EU-ESP",
@@ -820,6 +840,16 @@
     "skcc_nr": "26540S"
   },
   {
+    "utc_start": "20:00",
+    "utc_end": "21:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/23/26",
+    "callsign": "KC7QY",
+    "name": "Jim",
+    "state": "NM",
+    "skcc_nr": "4323S"
+  },
+  {
     "utc_start": "21:00",
     "utc_end": "22:00",
     "k3y_area": "K3Y/4",
@@ -938,6 +968,16 @@
     "name": "Cathy",
     "state": "TN",
     "skcc_nr": "20093S"
+  },
+  {
+    "utc_start": "22:00",
+    "utc_end": "23:00",
+    "k3y_area": "k3y/0",
+    "session_date": "01/23/26",
+    "callsign": "K0AF",
+    "name": "Andy",
+    "state": "IA",
+    "skcc_nr": "22366S"
   },
   {
     "utc_start": "23:00",
@@ -3638,16 +3678,6 @@
     "name": "Paul",
     "state": "GA",
     "skcc_nr": "6518S"
-  },
-  {
-    "utc_start": "13:00",
-    "utc_end": "15:00",
-    "k3y_area": "K3Y/3",
-    "session_date": "01/27/26",
-    "callsign": "K3WK",
-    "name": "Gary",
-    "state": "MD",
-    "skcc_nr": "25013S"
   },
   {
     "utc_start": "13:00",
