@@ -1390,6 +1390,16 @@
     "skcc_nr": "27215T"
   },
   {
+    "utc_start": "1:00",
+    "utc_end": "2:00",
+    "k3y_area": "K3Y/9",
+    "session_date": "01/24/26",
+    "callsign": "W9HT",
+    "name": "Josh",
+    "state": "IN",
+    "skcc_nr": "7474S"
+  },
+  {
     "utc_start": "2:00",
     "utc_end": "4:00",
     "k3y_area": "K3Y/1",
