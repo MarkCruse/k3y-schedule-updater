@@ -530,6 +530,16 @@
     "skcc_nr": "11019S"
   },
   {
+    "utc_start": "14:00",
+    "utc_end": "16:00",
+    "k3y_area": "K3Y/9",
+    "session_date": "01/23/26",
+    "callsign": "KK0I",
+    "name": "Jack",
+    "state": "WI",
+    "skcc_nr": "23670S"
+  },
+  {
     "utc_start": "15:00",
     "utc_end": "17:00",
     "k3y_area": "AS-ISR",
