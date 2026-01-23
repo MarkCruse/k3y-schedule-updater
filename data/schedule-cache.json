@@ -1070,6 +1070,16 @@
     "skcc_nr": "11052S"
   },
   {
+    "utc_start": "22:30",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/3",
+    "session_date": "01/23/26",
+    "callsign": "AF3Z",
+    "name": "Jim",
+    "state": "PA",
+    "skcc_nr": "3034T"
+  },
+  {
     "utc_start": "23:00",
     "utc_end": "23:59",
     "k3y_area": "K3Y/6",
