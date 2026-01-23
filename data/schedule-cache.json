@@ -1210,6 +1210,16 @@
     "skcc_nr": "24194S"
   },
   {
+    "utc_start": "0:00",
+    "utc_end": "1:00",
+    "k3y_area": "K3Y/2",
+    "session_date": "01/24/26",
+    "callsign": "AF2Z",
+    "name": "Drew",
+    "state": "NJ",
+    "skcc_nr": "2082S"
+  },
+  {
     "utc_start": "0:01",
     "utc_end": "23:59",
     "k3y_area": "OC-AUS",
