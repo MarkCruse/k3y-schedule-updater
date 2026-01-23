@@ -750,6 +750,16 @@
     "skcc_nr": "19270S"
   },
   {
+    "utc_start": "17:00",
+    "utc_end": "17:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/23/26",
+    "callsign": "WX7V",
+    "name": "Chris",
+    "state": "TX",
+    "skcc_nr": "25995S"
+  },
+  {
     "utc_start": "18:00",
     "utc_end": "21:00",
     "k3y_area": "K3Y/2",
@@ -2560,6 +2570,16 @@
     "skcc_nr": "24702C"
   },
   {
+    "utc_start": "21:00",
+    "utc_end": "21:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/25/26",
+    "callsign": "WX7V",
+    "name": "Chris",
+    "state": "TX",
+    "skcc_nr": "25995S"
+  },
+  {
     "utc_start": "22:00",
     "utc_end": "23:59",
     "k3y_area": "AS-JPN",
@@ -3831,6 +3851,16 @@
   },
   {
     "utc_start": "16:00",
+    "utc_end": "16:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/27/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
+  },
+  {
+    "utc_start": "16:00",
     "utc_end": "17:00",
     "k3y_area": "K3Y/4",
     "session_date": "01/27/26",
@@ -4410,6 +4440,16 @@
     "skcc_nr": "26472S"
   },
   {
+    "utc_start": "15:00",
+    "utc_end": "15:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/28/26",
+    "callsign": "AA5UZ",
+    "name": "Judy",
+    "state": "LA",
+    "skcc_nr": "12268"
+  },
+  {
     "utc_start": "16:00",
     "utc_end": "19:00",
     "k3y_area": "EU-ESP",
@@ -4418,6 +4458,16 @@
     "name": "Juan",
     "state": "Spain",
     "skcc_nr": "24446S"
+  },
+  {
+    "utc_start": "16:00",
+    "utc_end": "16:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/28/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
   },
   {
     "utc_start": "16:00",
@@ -5001,6 +5051,16 @@
   },
   {
     "utc_start": "15:00",
+    "utc_end": "15:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/29/26",
+    "callsign": "AA5UZ",
+    "name": "Judy",
+    "state": "LA",
+    "skcc_nr": "12268"
+  },
+  {
+    "utc_start": "15:00",
     "utc_end": "17:00",
     "k3y_area": "K3Y/6",
     "session_date": "01/29/26",
@@ -5018,6 +5078,16 @@
     "name": "Juan",
     "state": "Spain",
     "skcc_nr": "24446S"
+  },
+  {
+    "utc_start": "16:00",
+    "utc_end": "16:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/29/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
   },
   {
     "utc_start": "16:00",
@@ -5631,6 +5701,16 @@
   },
   {
     "utc_start": "15:00",
+    "utc_end": "15:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/30/26",
+    "callsign": "AA5UZ",
+    "name": "Judy",
+    "state": "LA",
+    "skcc_nr": "12268"
+  },
+  {
+    "utc_start": "15:00",
     "utc_end": "17:00",
     "k3y_area": "K3Y/1",
     "session_date": "01/30/26",
@@ -5648,6 +5728,16 @@
     "name": "Juan",
     "state": "Spain",
     "skcc_nr": "24446S"
+  },
+  {
+    "utc_start": "16:00",
+    "utc_end": "16:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/30/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
   },
   {
     "utc_start": "16:00",
@@ -5688,6 +5778,16 @@
     "name": "Mark",
     "state": "KY",
     "skcc_nr": "25318S"
+  },
+  {
+    "utc_start": "17:00",
+    "utc_end": "18:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/30/26",
+    "callsign": "NE5A",
+    "name": "George",
+    "state": "OK",
+    "skcc_nr": "24849S"
   },
   {
     "utc_start": "18:00",
@@ -6318,6 +6418,16 @@
     "name": "Jeff",
     "state": "TN",
     "skcc_nr": "26302S"
+  },
+  {
+    "utc_start": "18:00",
+    "utc_end": "19:59",
+    "k3y_area": "K3Y/5",
+    "session_date": "01/31/26",
+    "callsign": "WQ1C",
+    "name": "Warren",
+    "state": "TX",
+    "skcc_nr": "228T"
   },
   {
     "utc_start": "19:00",
