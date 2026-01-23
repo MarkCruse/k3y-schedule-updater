@@ -910,16 +910,6 @@
     "skcc_nr": "4323S"
   },
   {
-    "utc_start": "20:00",
-    "utc_end": "22:00",
-    "k3y_area": "K3Y/8",
-    "session_date": "01/23/26",
-    "callsign": "W8YD",
-    "name": "Bob",
-    "state": "OH",
-    "skcc_nr": "22079S"
-  },
-  {
     "utc_start": "21:00",
     "utc_end": "22:00",
     "k3y_area": "K3Y/4",
