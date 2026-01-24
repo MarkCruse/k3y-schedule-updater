@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-24 @ 19:47:11Z",
+  "generated_utc": "2026-01-24 @ 20:11:50Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -940,6 +940,16 @@
       "name": "Nick",
       "state": "DE",
       "skcc_nr": "28605S"
+    },
+    {
+      "utc_start": "20:00",
+      "utc_end": "21:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/24/26",
+      "callsign": "AD5VC",
+      "name": "Dana",
+      "state": "LA",
+      "skcc_nr": "1555S"
     },
     {
       "utc_start": "21:00",
