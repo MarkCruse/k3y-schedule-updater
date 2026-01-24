@@ -1,7 +1,7 @@
 import requests
 import re
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta, date
+from datetime import datetime, timedelta, date, timezone
 import random
 import time
 
@@ -34,6 +34,11 @@ def build_url(dt, end_year):
 
 # ---- Main logic ----
 current = start_dt
+
+# DEBUG: Show starting info
+print("Scraper starting...")
+print(f"Today: {start_dt}, End date: {end_date}")
+ 
 # ---- Loop through each day ----
 while current <= end_date:
     URL = build_url(current, end_year)
@@ -67,13 +72,6 @@ while current <= end_date:
 
     # --- 2. REMOVE BLANK LINES ---
     lines = [line for line in cleaned.splitlines() if line.strip() != ""]
-
-    # --- 3. KEEP ONLY AFTER THE SECOND <dt> LINE ---
-    # dt_indices = [i for i, line in enumerate(lines) if "<dt>" in line]
-
-    # if len(dt_indices) >= 2:
-    #     lines = lines[dt_indices[1]+1:]
-
 
     # Find the first <dt> index that has a time or K3Y pattern
     start_index = None
@@ -165,8 +163,8 @@ while current <= end_date:
     # --- FINAL CLEANED CONTENT ---
     cleaned = "\n".join(split_lines)
 
-    with open("output_soup.txt", "w", encoding="utf-8") as f:
-        f.write(cleaned)
+#    with open("output_soup.txt", "w", encoding="utf-8") as f:
+#        f.write(cleaned)
 
     cleaned_lines = [line.strip() for line in cleaned.splitlines() if line.strip()]
 
@@ -197,27 +195,22 @@ from pprint import pprint
 #pprint(records[0])
 #pprint(records)
 
-dt += timedelta(days=1)
-URL = build_url(dt, end_year)
-#print(URL)
-#print(records)
-
-
-#print(cleaned_lines)
-
-# from collections import OrderedDict
-
-# ordered_keys = ["session_date", "utc_start", "utc_end", "k3y_area", "callsign", "name", "state", "skcc_nr"]
-
-# records_ordered = [OrderedDict((k, r[k]) for k in ordered_keys) for r in records]
-
-# from pprint import pprint
-# pprint(records_ordered)
-
+print(f"Number of records found: {len(records)}")
+if records:
+    print("Sample record:", records[0])
+else:
+    print("No records found. Check if page was fetched correctly.")
 
 # ---- Write records to JSON file ----
+import os
 import json
 
-with open("schedule-cache.json", "w", encoding="utf-8") as f:
-    json.dump(records, f, indent=2)
+os.makedirs("data", exist_ok=True)
 
+if records:
+    
+    with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2)
+    print(f"Wrote {len(records)} records to schedule-cache.json")
+else:
+    print("No records to write — scraper may have failed or found no data")
