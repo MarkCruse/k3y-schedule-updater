@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-24 @ 16:41:11Z",
+  "generated_utc": "2026-01-24 @ 16:55:36Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -2542,6 +2542,16 @@
       "skcc_nr": "24702C"
     },
     {
+      "utc_start": "21:00",
+      "utc_end": "21:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/26/26",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "skcc_nr": "18054S"
+    },
+    {
       "utc_start": "22:00",
       "utc_end": "23:59",
       "k3y_area": "AS-JPN",
@@ -3310,6 +3320,16 @@
       "name": "Nick",
       "state": "DE",
       "skcc_nr": "28605S"
+    },
+    {
+      "utc_start": "21:00",
+      "utc_end": "21:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/27/26",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "skcc_nr": "18054S"
     },
     {
       "utc_start": "22:00",
@@ -4690,6 +4710,16 @@
       "name": "Adrian",
       "state": "CA",
       "skcc_nr": "12497T"
+    },
+    {
+      "utc_start": "23:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/29/26",
+      "callsign": "KG5OWB",
+      "name": "Terry",
+      "state": "TX",
+      "skcc_nr": "18054S"
     },
     {
       "utc_start": "0:00",
