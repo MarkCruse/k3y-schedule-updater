@@ -1040,6 +1040,16 @@
     "skcc_nr": "16465S"
   },
   {
+    "utc_start": "23:00",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/KL7",
+    "session_date": "01/24/26",
+    "callsign": "WL7WH",
+    "name": "Bob",
+    "state": "AK",
+    "skcc_nr": "2940S"
+  },
+  {
     "utc_start": "0:00",
     "utc_end": "0:59",
     "k3y_area": "K3Y/5",
