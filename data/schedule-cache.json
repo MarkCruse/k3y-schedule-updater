@@ -820,6 +820,16 @@
     "skcc_nr": "8843S"
   },
   {
+    "utc_start": "18:00",
+    "utc_end": "19:00",
+    "k3y_area": "K3Y/9",
+    "session_date": "01/24/26",
+    "callsign": "KC9YL",
+    "name": "Anne",
+    "state": "WI",
+    "skcc_nr": "23183T"
+  },
+  {
     "utc_start": "19:00",
     "utc_end": "21:00",
     "k3y_area": "K3Y/1",
