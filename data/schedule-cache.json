@@ -1030,6 +1030,16 @@
     "skcc_nr": "22366S"
   },
   {
+    "utc_start": "22:30",
+    "utc_end": "23:59",
+    "k3y_area": "K3Y/3",
+    "session_date": "01/24/26",
+    "callsign": "KA3BPN",
+    "name": "Tony",
+    "state": "PA",
+    "skcc_nr": "29671S"
+  },
+  {
     "utc_start": "23:00",
     "utc_end": "23:59",
     "k3y_area": "K3Y/2",
