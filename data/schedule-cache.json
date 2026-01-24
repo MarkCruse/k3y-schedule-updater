@@ -660,6 +660,16 @@
     "skcc_nr": "710S"
   },
   {
+    "utc_start": "15:00",
+    "utc_end": "16:00",
+    "k3y_area": "K3Y/8",
+    "session_date": "01/24/26",
+    "callsign": "KE8PX",
+    "name": "Ron",
+    "state": "OH",
+    "skcc_nr": "26949S"
+  },
+  {
     "utc_start": "16:00",
     "utc_end": "19:00",
     "k3y_area": "EU-ESP",
