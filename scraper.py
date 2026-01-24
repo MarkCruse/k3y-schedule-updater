@@ -208,9 +208,14 @@ import json
 os.makedirs("data", exist_ok=True)
 
 if records:
+    payload = {
+        "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d @ %H:%M:%SZ"),
+        "records": records
+    }
     
     with open("data/schedule-cache.json", "w", encoding="utf-8") as f:
-        json.dump(records, f, indent=2)
+        json.dump(payload, f, indent=2)
+
     print(f"Wrote {len(records)} records to schedule-cache.json")
 else:
     print("No records to write — scraper may have failed or found no data")
