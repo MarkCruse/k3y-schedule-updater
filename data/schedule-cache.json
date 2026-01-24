@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-24 @ 19:09:23Z",
+  "generated_utc": "2026-01-24 @ 19:27:18Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -882,6 +882,16 @@
       "skcc_nr": "32S"
     },
     {
+      "utc_start": "19:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/0",
+      "session_date": "01/24/26",
+      "callsign": "N3PDT",
+      "name": "Doug",
+      "state": "MO",
+      "skcc_nr": "6861S"
+    },
+    {
       "utc_start": "20:00",
       "utc_end": "23:59",
       "k3y_area": "K3Y/6",
@@ -1422,6 +1432,16 @@
       "skcc_nr": "20093S"
     },
     {
+      "utc_start": "2:00",
+      "utc_end": "4:00",
+      "k3y_area": "k3y/0",
+      "session_date": "01/25/26",
+      "callsign": "N7LP",
+      "name": "Lee",
+      "state": "MO",
+      "skcc_nr": "12189S"
+    },
+    {
       "utc_start": "5:00",
       "utc_end": "8:00",
       "k3y_area": "EU-ESP",
@@ -1792,6 +1812,16 @@
       "skcc_nr": "25318S"
     },
     {
+      "utc_start": "19:00",
+      "utc_end": "20:30",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/25/26",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "skcc_nr": "20151S"
+    },
+    {
       "utc_start": "20:00",
       "utc_end": "21:00",
       "k3y_area": "K3Y/7",
@@ -1932,6 +1962,16 @@
       "skcc_nr": "20093S"
     },
     {
+      "utc_start": "23:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/25/26",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "skcc_nr": "20151S"
+    },
+    {
       "utc_start": "0:00",
       "utc_end": "2:00",
       "k3y_area": "K3Y/4",
@@ -1960,6 +2000,16 @@
       "name": "Ralph",
       "state": "MS",
       "skcc_nr": "14800S"
+    },
+    {
+      "utc_start": "0:00",
+      "utc_end": "0:30",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/26/26",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "skcc_nr": "20151S"
     },
     {
       "utc_start": "0:01",
