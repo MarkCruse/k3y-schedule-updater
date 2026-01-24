@@ -600,6 +600,16 @@
     "skcc_nr": "24849S"
   },
   {
+    "utc_start": "14:00",
+    "utc_end": "19:00",
+    "k3y_area": "EU-POL",
+    "session_date": "01/24/26",
+    "callsign": "SQ9S",
+    "name": "Adam",
+    "state": "Poland",
+    "skcc_nr": "7404C"
+  },
+  {
     "utc_start": "15:00",
     "utc_end": "17:00",
     "k3y_area": "AS-ISR",
@@ -1368,6 +1378,16 @@
     "name": "Tom",
     "state": "France",
     "skcc_nr": "10437T"
+  },
+  {
+    "utc_start": "8:00",
+    "utc_end": "20:00",
+    "k3y_area": "EU-POL",
+    "session_date": "01/25/26",
+    "callsign": "SQ9S",
+    "name": "Adam",
+    "state": "Poland",
+    "skcc_nr": "7404C"
   },
   {
     "utc_start": "10:00",
