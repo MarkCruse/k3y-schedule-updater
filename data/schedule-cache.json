@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 21:48:41Z",
+  "generated_utc": "2026-01-25 @ 22:10:56Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1386,10 +1386,10 @@
       "utc_end": "2:00",
       "k3y_area": "K3Y/7",
       "session_date": "01/26/26",
-      "callsign": "W7VC",
-      "name": "Jordan",
-      "state": "OR",
-      "skcc_nr": "24194S"
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
     },
     {
       "utc_start": "2:00",
@@ -2322,6 +2322,16 @@
       "skcc_nr": "32S"
     },
     {
+      "utc_start": "3:00",
+      "utc_end": "4:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/27/26",
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
+    },
+    {
       "utc_start": "4:00",
       "utc_end": "5:00",
       "k3y_area": "K3Y/0",
@@ -3102,6 +3112,16 @@
       "skcc_nr": "6564S"
     },
     {
+      "utc_start": "3:00",
+      "utc_end": "4:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/28/26",
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
+    },
+    {
       "utc_start": "5:00",
       "utc_end": "8:00",
       "k3y_area": "EU-ESP",
@@ -3830,6 +3850,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "3:00",
+      "utc_end": "4:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/29/26",
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
     },
     {
       "utc_start": "4:00",
@@ -4582,6 +4612,16 @@
       "skcc_nr": "20696S"
     },
     {
+      "utc_start": "3:00",
+      "utc_end": "4:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/30/26",
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
+    },
+    {
       "utc_start": "6:00",
       "utc_end": "11:00",
       "k3y_area": "EU-CZE",
@@ -5260,6 +5300,16 @@
       "name": "Cathy",
       "state": "TN",
       "skcc_nr": "20093S"
+    },
+    {
+      "utc_start": "3:00",
+      "utc_end": "4:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "N0RNM",
+      "name": "Anne",
+      "state": "WY",
+      "skcc_nr": "24702C"
     },
     {
       "utc_start": "5:00",
