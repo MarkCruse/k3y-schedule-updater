@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 23:11:18Z",
+  "generated_utc": "2026-01-25 @ 23:32:30Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1830,6 +1830,16 @@
       "name": "Dan",
       "state": "WA",
       "skcc_nr": "25895S"
+    },
+    {
+      "utc_start": "18:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/26/26",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "skcc_nr": "20151S"
     },
     {
       "utc_start": "19:00",
@@ -5640,6 +5650,16 @@
       "name": "RJ",
       "state": "WY",
       "skcc_nr": "23485T"
+    },
+    {
+      "utc_start": "20:30",
+      "utc_end": "22:00",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/31/26",
+      "callsign": "K2FW",
+      "name": "Steve",
+      "state": "NJ",
+      "skcc_nr": "20151S"
     },
     {
       "utc_start": "21:00",
