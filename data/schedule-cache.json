@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 19:47:39Z",
+  "generated_utc": "2026-01-25 @ 20:12:52Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1082,6 +1082,16 @@
       "skcc_nr": "20930S"
     },
     {
+      "utc_start": "23:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/25/26",
+      "callsign": "K5LSU",
+      "name": "LSUClub",
+      "state": "LA",
+      "skcc_nr": "4947T"
+    },
+    {
       "utc_start": "0:00",
       "utc_end": "2:00",
       "k3y_area": "K3Y/4",
@@ -1380,6 +1390,16 @@
       "name": "John Paul",
       "state": "NC",
       "skcc_nr": "32S"
+    },
+    {
+      "utc_start": "3:00",
+      "utc_end": "4:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/26/26",
+      "callsign": "AD5VC",
+      "name": "Dana",
+      "state": "LA",
+      "skcc_nr": "1555S"
     },
     {
       "utc_start": "6:00",
