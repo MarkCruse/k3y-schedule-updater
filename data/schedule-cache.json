@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 16:42:43Z",
+  "generated_utc": "2026-01-25 @ 16:57:01Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -892,6 +892,16 @@
       "skcc_nr": "6861S"
     },
     {
+      "utc_start": "21:00",
+      "utc_end": "21:59",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/25/26",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "skcc_nr": "11052S"
+    },
+    {
       "utc_start": "22:00",
       "utc_end": "23:59",
       "k3y_area": "AS-JPN",
@@ -972,6 +982,16 @@
       "skcc_nr": "10605S"
     },
     {
+      "utc_start": "22:00",
+      "utc_end": "22:59",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/25/26",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "skcc_nr": "11052S"
+    },
+    {
       "utc_start": "23:00",
       "utc_end": "23:59",
       "k3y_area": "K3Y/6",
@@ -986,10 +1006,10 @@
       "utc_end": "23:59",
       "k3y_area": "K3Y/4",
       "session_date": "01/25/26",
-      "callsign": "W4CMG",
-      "name": "Cathy",
+      "callsign": "WM4Q",
+      "name": "Pete",
       "state": "TN",
-      "skcc_nr": "20093S"
+      "skcc_nr": "16465S"
     },
     {
       "utc_start": "23:00",
@@ -1430,6 +1450,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "12:00",
+      "utc_end": "13:00",
+      "k3y_area": "K3Y/4",
+      "session_date": "01/26/26",
+      "callsign": "K4KYN",
+      "name": "Jeff",
+      "state": "TN",
+      "skcc_nr": "26302S"
     },
     {
       "utc_start": "13:00",
