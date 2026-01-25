@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 18:16:04Z",
+  "generated_utc": "2026-01-25 @ 18:50:01Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1650,6 +1650,16 @@
       "name": "Tom",
       "state": "France",
       "skcc_nr": "10437T"
+    },
+    {
+      "utc_start": "15:00",
+      "utc_end": "16:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/26/26",
+      "callsign": "WA8ARS",
+      "name": "Mike",
+      "state": "AZ",
+      "skcc_nr": "29829T"
     },
     {
       "utc_start": "16:00",
