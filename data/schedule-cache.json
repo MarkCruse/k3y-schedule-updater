@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-25 @ 23:32:30Z",
+  "generated_utc": "2026-01-25 @ 23:50:02Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1352,6 +1352,16 @@
       "skcc_nr": "27671"
     },
     {
+      "utc_start": "0:30",
+      "utc_end": "1:00",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/26/26",
+      "callsign": "AF2Z",
+      "name": "Drew",
+      "state": "NJ",
+      "skcc_nr": "2082S"
+    },
+    {
       "utc_start": "1:00",
       "utc_end": "2:59",
       "k3y_area": "K3Y/5",
@@ -1562,16 +1572,6 @@
       "skcc_nr": "26302S"
     },
     {
-      "utc_start": "12:00",
-      "utc_end": "13:00",
-      "k3y_area": "K3Y/4",
-      "session_date": "01/26/26",
-      "callsign": "K4KYN",
-      "name": "Jeff",
-      "state": "TN",
-      "skcc_nr": "13884S"
-    },
-    {
       "utc_start": "13:00",
       "utc_end": "21:00",
       "k3y_area": "EU-FRA",
@@ -1730,6 +1730,16 @@
       "name": "Mike",
       "state": "AZ",
       "skcc_nr": "29829T"
+    },
+    {
+      "utc_start": "15:00",
+      "utc_end": "16:00",
+      "k3y_area": "K3Y/8",
+      "session_date": "01/26/26",
+      "callsign": "KE8PX",
+      "name": "Ron",
+      "state": "OH",
+      "skcc_nr": "26949S"
     },
     {
       "utc_start": "16:00",
