@@ -5,11 +5,9 @@ from datetime import datetime, timedelta, date, timezone
 import random
 import time
 
-#last_times = ("0:00", "0:00") 
-
-
 # ---- Config variables ----
-start_dt = date.today()
+#start_dt = date.today()
+start_dt = date(2026, 1, 2)
 dt = datetime(2026, 1, start_dt.day)
 end_year = 2027
 end_date = date(2026, 1, 31)   # last day to process
@@ -37,7 +35,7 @@ current = start_dt
 
 # DEBUG: Show starting info
 print("Scraper starting...")
-print(f"Today: {start_dt}, End date: {end_date}")
+print(f"Start date: {start_dt}, End date: {end_date}")
  
 # ---- Loop through each day ----
 while current <= end_date:
@@ -138,33 +136,41 @@ while current <= end_date:
             line = line.replace('--', '-')
         line = line.strip()
 
+        # --- REMOVE EVERYTHING STARTING WITH '_' ---
+        line = re.sub(r'_.*$', '', line).strip()
+
         dash_count = line.count('-')
 
         # Only split if line has 2 or 3 dashes
-        if (dash_count >2):
+        if (dash_count >=2):
             # split on dash, strip spaces, but keep empty strings
             parts = [part.strip() for part in line.split('-')]
             # If more than 4 parts → merge everything after the 3rd part
             if len(parts) > 4:
                 parts = parts[:3] + ['-'.join(parts[3:])]
+
+            # Ensure 4 parts by checking the 3rd part
+            if len(parts) == 3:
+                # If the 3rd part is not exactly 2 letters, insert a blank as the 3rd part
+                parts.insert(2, "NA")
+                
             # Clean the last element (assumed SKCC number)
-            if parts:
-                skcc_nr = parts[-1]
-                skcc_match = re.match(r'(\d+[CTS]?)', skcc_nr)
-                parts[-1] = skcc_match.group(1) if skcc_match else skcc_nr.strip()
+            skcc_nr = parts[-1]
+            skcc_match = re.match(r'(\d+[CTS]?)', skcc_nr)
+            parts[-1] = skcc_match.group(1) if skcc_match else skcc_nr.strip()
 
             split_lines.extend(parts)
             #print(parts)  # to debug
         else:
-            # Keep lines with 0 or 1 dash intact
+            #Keep lines with 0 or 1 dash intact
             split_lines.append(line)
 
 
     # --- FINAL CLEANED CONTENT ---
     cleaned = "\n".join(split_lines)
 
-#    with open("output_soup.txt", "w", encoding="utf-8") as f:
-#        f.write(cleaned)
+    with open("output_soup.txt", "w", encoding="utf-8") as f:
+        f.write(cleaned)
 
     cleaned_lines = [line.strip() for line in cleaned.splitlines() if line.strip()]
 
