@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-26 @ 15:42:37Z",
+  "generated_utc": "2026-01-26 @ 15:50:07Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -643,7 +643,7 @@
     },
     {
       "utc_start": "15:00",
-      "utc_end": "17:00",
+      "utc_end": "18:00",
       "k3y_area": "K3Y/1",
       "session_date": "01/26/26",
       "callsign": "WB1ANA",
