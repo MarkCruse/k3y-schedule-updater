@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-26 @ 22:12:32Z",
+  "generated_utc": "2026-01-26 @ 22:40:45Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -2270,16 +2270,6 @@
       "name": "Take",
       "state": "JPN",
       "skcc_nr": "11167S"
-    },
-    {
-      "utc_start": "22:00",
-      "utc_end": "23:00",
-      "k3y_area": "K3Y/1",
-      "session_date": "01/27/26",
-      "callsign": "W1UCF",
-      "name": "Gary",
-      "state": "VT",
-      "skcc_nr": "30308"
     },
     {
       "utc_start": "22:00",
