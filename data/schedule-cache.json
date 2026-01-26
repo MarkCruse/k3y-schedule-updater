@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-26 @ 20:47:22Z",
+  "generated_utc": "2026-01-26 @ 21:14:12Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -2002,6 +2002,16 @@
       "skcc_nr": "16461S"
     },
     {
+      "utc_start": "16:00",
+      "utc_end": "18:00",
+      "k3y_area": "K3Y/9",
+      "session_date": "01/27/26",
+      "callsign": "KC9IL",
+      "name": "Warren",
+      "state": "IL",
+      "skcc_nr": "11766S"
+    },
+    {
       "utc_start": "17:00",
       "utc_end": "19:00",
       "k3y_area": "K3Y/6",
@@ -3350,6 +3360,16 @@
       "name": "Jon",
       "state": "CRC",
       "skcc_nr": "21895"
+    },
+    {
+      "utc_start": "1:00",
+      "utc_end": "3:00",
+      "k3y_area": "K3Y/9",
+      "session_date": "01/29/26",
+      "callsign": "KC9IL",
+      "name": "Warren",
+      "state": "IL",
+      "skcc_nr": "11766S"
     },
     {
       "utc_start": "2:00",
