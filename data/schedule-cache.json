@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-26 @ 04:10:19Z",
+  "generated_utc": "2026-01-26 @ 13:11:05Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -562,6 +562,16 @@
       "skcc_nr": "28605"
     },
     {
+      "utc_start": "13:00",
+      "utc_end": "14:00",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/26/26",
+      "callsign": "N2KPJ",
+      "name": "Tom",
+      "state": "NY",
+      "skcc_nr": "16569S"
+    },
+    {
       "utc_start": "14:00",
       "utc_end": "17:00",
       "k3y_area": "EU-GER",
@@ -702,6 +712,16 @@
       "skcc_nr": "26949S"
     },
     {
+      "utc_start": "15:00",
+      "utc_end": "16:00",
+      "k3y_area": "k3y/0",
+      "session_date": "01/26/26",
+      "callsign": "K8UDH",
+      "name": "Bruce",
+      "state": "NE",
+      "skcc_nr": "10532S"
+    },
+    {
       "utc_start": "16:00",
       "utc_end": "19:00",
       "k3y_area": "EU-ESP",
@@ -822,6 +842,16 @@
       "skcc_nr": "29671S"
     },
     {
+      "utc_start": "18:00",
+      "utc_end": "19:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/26/26",
+      "callsign": "NF1O",
+      "name": "Barry",
+      "state": "NH",
+      "skcc_nr": "164S"
+    },
+    {
       "utc_start": "19:00",
       "utc_end": "23:59",
       "k3y_area": "K3Y/6",
@@ -920,6 +950,16 @@
       "name": "Gary",
       "state": "MD",
       "skcc_nr": "25013S"
+    },
+    {
+      "utc_start": "21:00",
+      "utc_end": "22:00",
+      "k3y_area": "k3y/0",
+      "session_date": "01/26/26",
+      "callsign": "K8UDH",
+      "name": "Bruce",
+      "state": "NE",
+      "skcc_nr": "10532S"
     },
     {
       "utc_start": "22:00",
@@ -3350,6 +3390,16 @@
       "name": "Mark",
       "state": "KY",
       "skcc_nr": "25318S"
+    },
+    {
+      "utc_start": "20:00",
+      "utc_end": "22:00",
+      "k3y_area": "k3y/0",
+      "session_date": "01/29/26",
+      "callsign": "W9KMK",
+      "name": "Gene",
+      "state": "MO",
+      "skcc_nr": "19270S"
     },
     {
       "utc_start": "21:00",
