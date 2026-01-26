@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-26 @ 14:52:31Z",
+  "generated_utc": "2026-01-26 @ 15:42:37Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -772,6 +772,26 @@
       "skcc_nr": "710S"
     },
     {
+      "utc_start": "16:00",
+      "utc_end": "18:00",
+      "k3y_area": "K3Y/9",
+      "session_date": "01/26/26",
+      "callsign": "AC9XX",
+      "name": "John",
+      "state": "IL",
+      "skcc_nr": "23503T"
+    },
+    {
+      "utc_start": "16:00",
+      "utc_end": "17:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/26/26",
+      "callsign": "N3KI",
+      "name": "Nick",
+      "state": "DE",
+      "skcc_nr": "28605"
+    },
+    {
       "utc_start": "17:00",
       "utc_end": "19:00",
       "k3y_area": "K3Y/6",
@@ -860,6 +880,16 @@
       "name": "Barry",
       "state": "NH",
       "skcc_nr": "164S"
+    },
+    {
+      "utc_start": "18:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/9",
+      "session_date": "01/26/26",
+      "callsign": "KC9YL",
+      "name": "Anne",
+      "state": "WI",
+      "skcc_nr": "23183T"
     },
     {
       "utc_start": "19:00",
@@ -4320,6 +4350,16 @@
       "name": "A1CLUB",
       "state": "JPN",
       "skcc_nr": "16199"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "22:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/30/26",
+      "callsign": "K0RO",
+      "name": "Ralph",
+      "state": "MS",
+      "skcc_nr": "14800S"
     },
     {
       "utc_start": "22:00",
