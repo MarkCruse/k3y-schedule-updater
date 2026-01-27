@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-27 @ 02:35:10Z",
+  "generated_utc": "2026-01-27 @ 04:01:26Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1472,6 +1472,16 @@
       "skcc_nr": "24702C"
     },
     {
+      "utc_start": "3:00",
+      "utc_end": "4:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/28/26",
+      "callsign": "K1SP",
+      "name": "Matt",
+      "state": "TX",
+      "skcc_nr": "26931S"
+    },
+    {
       "utc_start": "5:00",
       "utc_end": "8:00",
       "k3y_area": "EU-ESP",
@@ -1600,6 +1610,16 @@
       "name": "Gary",
       "state": "MD",
       "skcc_nr": "25013S"
+    },
+    {
+      "utc_start": "13:00",
+      "utc_end": "13:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/28/26",
+      "callsign": "KG5IEE",
+      "name": "Randal",
+      "state": "TX",
+      "skcc_nr": "20496S"
     },
     {
       "utc_start": "14:00",
@@ -2372,6 +2392,16 @@
       "skcc_nr": "23014S"
     },
     {
+      "utc_start": "4:00",
+      "utc_end": "4:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/29/26",
+      "callsign": "K1SP",
+      "name": "Matt",
+      "state": "TX",
+      "skcc_nr": "26931S"
+    },
+    {
       "utc_start": "7:00",
       "utc_end": "9:00",
       "k3y_area": "EU-FRA",
@@ -2690,6 +2720,16 @@
       "name": "RJ",
       "state": "WY",
       "skcc_nr": "23485T"
+    },
+    {
+      "utc_start": "18:00",
+      "utc_end": "18:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/29/26",
+      "callsign": "KD5ZZU",
+      "name": "Mallory",
+      "state": "TX",
+      "skcc_nr": "28788T"
     },
     {
       "utc_start": "19:00",
@@ -4230,6 +4270,16 @@
       "name": "Doug",
       "state": "NH",
       "skcc_nr": "29328T"
+    },
+    {
+      "utc_start": "15:00",
+      "utc_end": "15:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/31/26",
+      "callsign": "KG5IEE",
+      "name": "Randal",
+      "state": "TX",
+      "skcc_nr": "20496S"
     },
     {
       "utc_start": "16:00",
