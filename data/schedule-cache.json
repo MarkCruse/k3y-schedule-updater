@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-27 @ 18:22:58Z",
+  "generated_utc": "2026-01-27 @ 19:01:22Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1082,6 +1082,16 @@
       "skcc_nr": "27876S"
     },
     {
+      "utc_start": "20:00",
+      "utc_end": "20:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/27/26",
+      "callsign": "K5LSU",
+      "name": "LSUClub",
+      "state": "LA",
+      "skcc_nr": "4947T"
+    },
+    {
       "utc_start": "21:00",
       "utc_end": "22:00",
       "k3y_area": "K3Y/4",
@@ -1960,6 +1970,16 @@
       "name": "Jim",
       "state": "NH",
       "skcc_nr": "13718S"
+    },
+    {
+      "utc_start": "17:30",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y3",
+      "session_date": "01/28/26",
+      "callsign": "KA3BPN",
+      "name": "Tony",
+      "state": "PA",
+      "skcc_nr": "29671S"
     },
     {
       "utc_start": "18:00",
