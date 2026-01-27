@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-27 @ 22:38:25Z",
+  "generated_utc": "2026-01-27 @ 22:53:42Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -2180,6 +2180,16 @@
       "name": "Reiner",
       "state": "NY",
       "skcc_nr": "20196T"
+    },
+    {
+      "utc_start": "21:00",
+      "utc_end": "22:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/28/26",
+      "callsign": "N3KI",
+      "name": "Nick",
+      "state": "DE",
+      "skcc_nr": "28605S"
     },
     {
       "utc_start": "22:00",
