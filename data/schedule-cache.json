@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28 @ 21:51:34Z",
+  "generated_utc": "2026-01-28 @ 22:16:24Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -830,16 +830,6 @@
       "name": "Tony",
       "state": "PA",
       "skcc_nr": "29671S"
-    },
-    {
-      "utc_start": "18:00",
-      "utc_end": "19:00",
-      "k3y_area": "K3Y/7",
-      "session_date": "01/28/26",
-      "callsign": "N7LKL",
-      "name": "Dave",
-      "state": "OR",
-      "skcc_nr": "11440T"
     },
     {
       "utc_start": "18:00",
