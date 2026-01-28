@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28 @ 00:55:09Z",
+  "generated_utc": "2026-01-28 @ 02:31:23Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -83,7 +83,7 @@
     },
     {
       "utc_start": "0:00",
-      "utc_end": "1:00",
+      "utc_end": "0:30",
       "k3y_area": "K3Y/7",
       "session_date": "01/28/26",
       "callsign": "KJ7GNB",
@@ -292,6 +292,16 @@
       "skcc_nr": "27671"
     },
     {
+      "utc_start": "0:30",
+      "utc_end": "2:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/28/26",
+      "callsign": "KK7NNC",
+      "name": "Rich",
+      "state": "AZ",
+      "skcc_nr": "28561T"
+    },
+    {
       "utc_start": "1:00",
       "utc_end": "2:00",
       "k3y_area": "K3Y/9",
@@ -460,6 +470,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "10:00",
+      "utc_end": "13:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/28/26",
+      "callsign": "KC1UUH",
+      "name": "Doug",
+      "state": "NH",
+      "skcc_nr": "29328T"
     },
     {
       "utc_start": "11:00",
@@ -1482,6 +1502,16 @@
       "skcc_nr": "19983T"
     },
     {
+      "utc_start": "10:00",
+      "utc_end": "13:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/29/26",
+      "callsign": "KC1UUH",
+      "name": "Doug",
+      "state": "NH",
+      "skcc_nr": "29328T"
+    },
+    {
       "utc_start": "11:00",
       "utc_end": "13:00",
       "k3y_area": "EU-ESP",
@@ -2382,6 +2412,16 @@
       "skcc_nr": "19983T"
     },
     {
+      "utc_start": "10:00",
+      "utc_end": "13:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/30/26",
+      "callsign": "KC1UUH",
+      "name": "Doug",
+      "state": "NH",
+      "skcc_nr": "29328T"
+    },
+    {
       "utc_start": "11:00",
       "utc_end": "13:00",
       "k3y_area": "EU-ESP",
@@ -3180,6 +3220,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "10:00",
+      "utc_end": "13:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/31/26",
+      "callsign": "KC1UUH",
+      "name": "Doug",
+      "state": "NH",
+      "skcc_nr": "29328T"
     },
     {
       "utc_start": "11:00",
