@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28 @ 22:16:24Z",
+  "generated_utc": "2026-01-28 @ 22:50:50Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1103,7 +1103,7 @@
     },
     {
       "utc_start": "22:00",
-      "utc_end": "23:00",
+      "utc_end": "23:59",
       "k3y_area": "K3Y/3",
       "session_date": "01/28/26",
       "callsign": "K3EW",
