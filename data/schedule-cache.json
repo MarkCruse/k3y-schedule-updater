@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28 @ 17:48:03Z",
+  "generated_utc": "2026-01-28 @ 18:23:23Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1113,13 +1113,13 @@
     },
     {
       "utc_start": "22:00",
-      "utc_end": "23:59",
+      "utc_end": "23:00",
       "k3y_area": "K3Y/3",
       "session_date": "01/28/26",
-      "callsign": "KA3BPN",
-      "name": "Tony",
-      "state": "PA",
-      "skcc_nr": "29671S"
+      "callsign": "K3EW",
+      "name": "PHIL",
+      "state": "MD",
+      "skcc_nr": "10605S"
     },
     {
       "utc_start": "22:00",
@@ -1510,6 +1510,16 @@
       "name": "Glen",
       "state": "AK",
       "skcc_nr": "17287C"
+    },
+    {
+      "utc_start": "2:00",
+      "utc_end": "3:00",
+      "k3y_area": "K3Y/4",
+      "session_date": "01/29/26",
+      "callsign": "KN4NVU",
+      "name": "Paul",
+      "state": "TN",
+      "skcc_nr": "21247T"
     },
     {
       "utc_start": "3:00",
