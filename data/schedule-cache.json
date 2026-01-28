@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-28 @ 16:22:55Z",
+  "generated_utc": "2026-01-28 @ 17:03:35Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -753,16 +753,6 @@
     },
     {
       "utc_start": "16:00",
-      "utc_end": "17:00",
-      "k3y_area": "K3Y/7",
-      "session_date": "01/28/26",
-      "callsign": "W7AMI",
-      "name": "Terry",
-      "state": "ID",
-      "skcc_nr": "20359S"
-    },
-    {
-      "utc_start": "16:00",
       "utc_end": "18:00",
       "k3y_area": "K3Y/2",
       "session_date": "01/28/26",
@@ -860,6 +850,16 @@
       "name": "Mark",
       "state": "KY",
       "skcc_nr": "25318S"
+    },
+    {
+      "utc_start": "18:00",
+      "utc_end": "19:00",
+      "k3y_area": "K3Y/9",
+      "session_date": "01/28/26",
+      "callsign": "KK0I",
+      "name": "Jack",
+      "state": "WI",
+      "skcc_nr": "2370S"
     },
     {
       "utc_start": "19:00",
@@ -1042,6 +1042,16 @@
       "skcc_nr": "28605S"
     },
     {
+      "utc_start": "21:00",
+      "utc_end": "21:59",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/28/26",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "skcc_nr": "11052S"
+    },
+    {
       "utc_start": "22:00",
       "utc_end": "23:59",
       "k3y_area": "AS-JPN",
@@ -1110,6 +1120,16 @@
       "name": "Tony",
       "state": "PA",
       "skcc_nr": "29671S"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "22:59",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/28/26",
+      "callsign": "N1TX",
+      "name": "Larry",
+      "state": "AK",
+      "skcc_nr": "11052S"
     },
     {
       "utc_start": "23:00",
@@ -3970,6 +3990,16 @@
       "name": "Bob",
       "state": "MT",
       "skcc_nr": "20956S"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "23:00",
+      "k3y_area": "K3Y/2",
+      "session_date": "01/31/26",
+      "callsign": "KD2GUT",
+      "name": "Caryn",
+      "state": "NY",
+      "skcc_nr": "23124S"
     },
     {
       "utc_start": "23:00",
