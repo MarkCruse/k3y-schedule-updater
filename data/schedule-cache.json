@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-29 @ 16:58:28Z",
+  "generated_utc": "2026-01-29 @ 17:53:09Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -942,6 +942,16 @@
       "skcc_nr": "8759S"
     },
     {
+      "utc_start": "18:00",
+      "utc_end": "19:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/29/26",
+      "callsign": "AF3Z",
+      "name": "Jim",
+      "state": "PA",
+      "skcc_nr": "3034T"
+    },
+    {
       "utc_start": "19:00",
       "utc_end": "20:00",
       "k3y_area": "K3Y/7",
@@ -1000,6 +1010,16 @@
       "name": "Pete",
       "state": "TN",
       "skcc_nr": "16465S"
+    },
+    {
+      "utc_start": "19:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/29/26",
+      "callsign": "KA3BPN",
+      "name": "Tony",
+      "state": "PA",
+      "skcc_nr": "29671S"
     },
     {
       "utc_start": "20:00",
@@ -1170,6 +1190,16 @@
       "name": "Glen",
       "state": "AK",
       "skcc_nr": "17287C"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/29/26",
+      "callsign": "K3EW",
+      "name": "PHIL",
+      "state": "MD",
+      "skcc_nr": "10605S"
     },
     {
       "utc_start": "23:00",
@@ -1560,6 +1590,16 @@
       "name": "Glen",
       "state": "AK",
       "skcc_nr": "17287C"
+    },
+    {
+      "utc_start": "2:00",
+      "utc_end": "3:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/30/26",
+      "callsign": "KA3BPN",
+      "name": "Tony",
+      "state": "PA",
+      "skcc_nr": "29671S"
     },
     {
       "utc_start": "3:00",
@@ -2234,7 +2274,7 @@
     {
       "utc_start": "23:00",
       "utc_end": "23:59",
-      "k3y_area": "K3Y/7",
+      "k3y_area": "K3Y/KL7",
       "session_date": "01/30/26",
       "callsign": "WL7WH",
       "name": "Bob",
@@ -3230,6 +3270,16 @@
       "name": "Bob",
       "state": "MT",
       "skcc_nr": "20956S"
+    },
+    {
+      "utc_start": "23:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/31/26",
+      "callsign": "WL7WH",
+      "name": "Bob",
+      "state": "AK",
+      "skcc_nr": "2940S"
     }
   ]
 }
