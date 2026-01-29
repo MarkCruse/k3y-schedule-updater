@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-29 @ 22:16:32Z",
+  "generated_utc": "2026-01-29 @ 22:51:34Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -2710,16 +2710,6 @@
       "name": "Myrt",
       "state": "RI",
       "skcc_nr": "5521S"
-    },
-    {
-      "utc_start": "3:00",
-      "utc_end": "4:00",
-      "k3y_area": "K3Y/4",
-      "session_date": "01/31/26",
-      "callsign": "W4CMG",
-      "name": "Cathy",
-      "state": "TN",
-      "skcc_nr": "20093S"
     },
     {
       "utc_start": "3:00",
