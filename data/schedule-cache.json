@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-29 @ 20:51:24Z",
+  "generated_utc": "2026-01-29 @ 21:17:06Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1782,6 +1782,16 @@
       "skcc_nr": "29328T"
     },
     {
+      "utc_start": "10:00",
+      "utc_end": "11:00",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/30/26",
+      "callsign": "KL7IDA",
+      "name": "Bill",
+      "state": "AK",
+      "skcc_nr": "2713S"
+    },
+    {
       "utc_start": "11:00",
       "utc_end": "13:00",
       "k3y_area": "EU-ESP",
@@ -2162,16 +2172,6 @@
       "skcc_nr": "16465S"
     },
     {
-      "utc_start": "19:00",
-      "utc_end": "19:59",
-      "k3y_area": "K3Y/5",
-      "session_date": "01/30/26",
-      "callsign": "WA5YOM",
-      "name": "Tim",
-      "state": "OK",
-      "skcc_nr": "13242S"
-    },
-    {
       "utc_start": "20:00",
       "utc_end": "22:00",
       "k3y_area": "K3Y/4",
@@ -2230,6 +2230,16 @@
       "name": "Tim",
       "state": "OK",
       "skcc_nr": "13242S"
+    },
+    {
+      "utc_start": "21:00",
+      "utc_end": "22:00",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/30/26",
+      "callsign": "KL7IDA",
+      "name": "Bill",
+      "state": "AK",
+      "skcc_nr": "2713S"
     },
     {
       "utc_start": "22:00",
@@ -2310,6 +2320,16 @@
       "name": "Myrt",
       "state": "RI",
       "skcc_nr": "5521S"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "23:00",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/30/26",
+      "callsign": "KL7IDA",
+      "name": "Bill",
+      "state": "AK",
+      "skcc_nr": "2713S"
     },
     {
       "utc_start": "23:00",
@@ -2760,6 +2780,16 @@
       "name": "Doug",
       "state": "NH",
       "skcc_nr": "29328T"
+    },
+    {
+      "utc_start": "10:00",
+      "utc_end": "11:00",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/31/26",
+      "callsign": "KL7IDA",
+      "name": "Bill",
+      "state": "AK",
+      "skcc_nr": "2713S"
     },
     {
       "utc_start": "11:00",
@@ -3290,6 +3320,16 @@
       "name": "Caryn",
       "state": "NY",
       "skcc_nr": "23124S"
+    },
+    {
+      "utc_start": "22:00",
+      "utc_end": "23:00",
+      "k3y_area": "K3Y/KL7",
+      "session_date": "01/31/26",
+      "callsign": "KL7IDA",
+      "name": "Bill",
+      "state": "AK",
+      "skcc_nr": "2713S"
     },
     {
       "utc_start": "23:00",
