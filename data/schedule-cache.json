@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-29 @ 16:06:45Z",
+  "generated_utc": "2026-01-29 @ 16:58:28Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -902,6 +902,16 @@
       "skcc_nr": "5521S"
     },
     {
+      "utc_start": "17:00",
+      "utc_end": "17:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/29/26",
+      "callsign": "KE5AKL",
+      "name": "Mike",
+      "state": "NM",
+      "skcc_nr": "1113"
+    },
+    {
       "utc_start": "18:00",
       "utc_end": "19:00",
       "k3y_area": "K3Y/7",
@@ -1582,6 +1592,26 @@
       "skcc_nr": "17287C"
     },
     {
+      "utc_start": "4:00",
+      "utc_end": "5:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/30/26",
+      "callsign": "N7PHI",
+      "name": "Derek",
+      "state": "UT",
+      "skcc_nr": "20999S"
+    },
+    {
+      "utc_start": "5:00",
+      "utc_end": "6:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/30/26",
+      "callsign": "N7PHI",
+      "name": "Derek",
+      "state": "UT",
+      "skcc_nr": "20999S"
+    },
+    {
       "utc_start": "6:00",
       "utc_end": "11:00",
       "k3y_area": "EU-CZE",
@@ -1590,6 +1620,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "6:00",
+      "utc_end": "7:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/30/26",
+      "callsign": "N7PHI",
+      "name": "Derek",
+      "state": "UT",
+      "skcc_nr": "20999S"
     },
     {
       "utc_start": "7:00",
