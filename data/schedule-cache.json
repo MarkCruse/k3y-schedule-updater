@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-29 @ 14:09:05Z",
+  "generated_utc": "2026-01-29 @ 14:57:14Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1862,6 +1862,16 @@
       "skcc_nr": "16461S"
     },
     {
+      "utc_start": "16:00",
+      "utc_end": "17:00",
+      "k3y_area": "K3Y/4",
+      "session_date": "01/30/26",
+      "callsign": "KN4NVU",
+      "name": "Paul",
+      "state": "TN",
+      "skcc_nr": "21247T"
+    },
+    {
       "utc_start": "17:00",
       "utc_end": "19:00",
       "k3y_area": "EU-GER",
@@ -2882,6 +2892,16 @@
       "skcc_nr": "5521S"
     },
     {
+      "utc_start": "18:00",
+      "utc_end": "19:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "WA8ARS",
+      "name": "Mike",
+      "state": "AZ",
+      "skcc_nr": "29829S"
+    },
+    {
       "utc_start": "19:00",
       "utc_end": "21:00",
       "k3y_area": "K3Y/6",
@@ -2900,6 +2920,16 @@
       "name": "John Paul",
       "state": "NC",
       "skcc_nr": "32S"
+    },
+    {
+      "utc_start": "19:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "WA8ARS",
+      "name": "Mike",
+      "state": "AZ",
+      "skcc_nr": "29829S"
     },
     {
       "utc_start": "20:00",
