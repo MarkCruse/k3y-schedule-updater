@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-30 @ 15:55:55Z",
+  "generated_utc": "2026-01-30 @ 16:34:13Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1702,6 +1702,16 @@
       "skcc_nr": "25524T"
     },
     {
+      "utc_start": "3:00",
+      "utc_end": "5:59",
+      "k3y_area": "K3Y/5",
+      "session_date": "01/31/26",
+      "callsign": "W5YW",
+      "name": "LSU",
+      "state": "LA",
+      "skcc_nr": "4948"
+    },
+    {
       "utc_start": "5:00",
       "utc_end": "8:00",
       "k3y_area": "EU-ESP",
@@ -1760,6 +1770,16 @@
       "name": "Lad",
       "state": "Czech Republic",
       "skcc_nr": "24333"
+    },
+    {
+      "utc_start": "9:00",
+      "utc_end": "10:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/31/26",
+      "callsign": "KK4DX",
+      "name": "Lance",
+      "state": "CT",
+      "skcc_nr": "30581"
     },
     {
       "utc_start": "10:00",
