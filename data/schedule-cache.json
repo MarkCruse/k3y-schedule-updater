@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-30 @ 17:56:17Z",
+  "generated_utc": "2026-01-30 @ 18:37:28Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1710,6 +1710,16 @@
       "name": "LSU",
       "state": "LA",
       "skcc_nr": "4948"
+    },
+    {
+      "utc_start": "4:00",
+      "utc_end": "5:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "K7IUK",
+      "name": "Jeff",
+      "state": "OR",
+      "skcc_nr": "20211T"
     },
     {
       "utc_start": "5:00",
