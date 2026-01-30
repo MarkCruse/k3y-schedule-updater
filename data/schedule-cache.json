@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-30 @ 19:19:01Z",
+  "generated_utc": "2026-01-30 @ 19:50:30Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1770,6 +1770,16 @@
       "name": "Jeff",
       "state": "OR",
       "skcc_nr": "20211T"
+    },
+    {
+      "utc_start": "4:00",
+      "utc_end": "5:00",
+      "k3y_area": "K3Y/1",
+      "session_date": "01/31/26",
+      "callsign": "KB1FGC",
+      "name": "Rich",
+      "state": "CT",
+      "skcc_nr": "21047S"
     },
     {
       "utc_start": "5:00",
