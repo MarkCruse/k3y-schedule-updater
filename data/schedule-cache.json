@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-30 @ 22:13:16Z",
+  "generated_utc": "2026-01-30 @ 22:46:21Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1322,6 +1322,16 @@
       "skcc_nr": "17776"
     },
     {
+      "utc_start": "23:00",
+      "utc_end": "23:59",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/30/26",
+      "callsign": "AF3Z",
+      "name": "Jim",
+      "state": "PA",
+      "skcc_nr": "3034T"
+    },
+    {
       "utc_start": "0:00",
       "utc_end": "1:00",
       "k3y_area": "AS-JPN",
@@ -2132,6 +2142,16 @@
       "skcc_nr": "15461S"
     },
     {
+      "utc_start": "15:00",
+      "utc_end": "16:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "WA8ARS",
+      "name": "Mike",
+      "state": "AZ",
+      "skcc_nr": "29829S"
+    },
+    {
       "utc_start": "16:00",
       "utc_end": "19:00",
       "k3y_area": "EU-ESP",
@@ -2313,16 +2333,6 @@
     },
     {
       "utc_start": "19:00",
-      "utc_end": "20:00",
-      "k3y_area": "K3Y/7",
-      "session_date": "01/31/26",
-      "callsign": "WA8ARS",
-      "name": "Mike",
-      "state": "AZ",
-      "skcc_nr": "29829S"
-    },
-    {
-      "utc_start": "19:00",
       "utc_end": "19:59",
       "k3y_area": "K3Y/KL7",
       "session_date": "01/31/26",
@@ -2330,6 +2340,16 @@
       "name": "Larry",
       "state": "AK",
       "skcc_nr": "11052S"
+    },
+    {
+      "utc_start": "19:00",
+      "utc_end": "20:00",
+      "k3y_area": "K3Y/7",
+      "session_date": "01/31/26",
+      "callsign": "K7TXA",
+      "name": "Jim",
+      "state": "ID",
+      "skcc_nr": "10447T"
     },
     {
       "utc_start": "19:30",
