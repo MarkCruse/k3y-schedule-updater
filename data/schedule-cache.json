@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-01-31 @ 20:12:56Z",
+  "generated_utc": "2026-01-31 @ 20:41:50Z",
   "records": [
     {
       "utc_start": "0:00",
@@ -1220,6 +1220,16 @@
       "name": "Dana",
       "state": "LA",
       "skcc_nr": "1555S"
+    },
+    {
+      "utc_start": "20:30",
+      "utc_end": "21:00",
+      "k3y_area": "K3Y/3",
+      "session_date": "01/31/26",
+      "callsign": "K3EW",
+      "name": "PHIL",
+      "state": "MD",
+      "skcc_nr": "10605S"
     },
     {
       "utc_start": "21:00",
