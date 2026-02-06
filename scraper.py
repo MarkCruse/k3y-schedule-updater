@@ -97,7 +97,6 @@ while current <= end_date:
         lines = lines[:-2]  # drop the last two lines
 
     # --- 5. CLEAN LINES ---
-#    cleaned_lines = []
     for line in lines:
         line = line.lstrip()           # remove leading whitespace
 
@@ -169,8 +168,8 @@ while current <= end_date:
     # --- FINAL CLEANED CONTENT ---
     cleaned = "\n".join(split_lines)
 
-    with open("output_soup.txt", "w", encoding="utf-8") as f:
-        f.write(cleaned)
+    #with open("output_soup.txt", "w", encoding="utf-8") as f:
+    #    f.write(cleaned)
 
     cleaned_lines = [line.strip() for line in cleaned.splitlines() if line.strip()]
 
